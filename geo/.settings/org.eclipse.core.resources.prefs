@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
+encoding//WebContent/scripts/drawmap.js=UTF-8
 encoding//WebContent/scripts/findstuff.js=UTF-8
 encoding//WebContent/scripts/geoposition.js=UTF-8
 encoding//WebContent/scripts/town.js=UTF-8
